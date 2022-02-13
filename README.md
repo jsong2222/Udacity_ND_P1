@@ -32,3 +32,7 @@ V. Acknowledgements
 Data sources are from http://insideairbnb.com/get-the-data.html.
 The specific year 2016 dats is used, following the project guidelines from Udacity Data Scientist Nanodegree Program.
 The project is done by Jiacheng Song.
+
+VI. Other Specifications
+
+The blog post is at: https://medium.com/@jsong01/where-should-you-live-when-traveling-in-seattle-43e2aadff496
